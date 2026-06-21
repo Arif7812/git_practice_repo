@@ -1,3 +1,5 @@
 Hello git
 Second line added
 Feature 1 work
+Half done work - not ready to commit
+Another temp change
