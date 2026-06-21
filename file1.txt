@@ -4,3 +4,4 @@ Master branch updated
 Feature 1 work
 Half done work - not ready to commit
 Another temp change
+Changed directly on GitHub
